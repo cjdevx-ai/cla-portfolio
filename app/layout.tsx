@@ -3,9 +3,13 @@ import { Inter } from 'next/font/google'
 import './globals.css'
 
 const inter = Inter({ subsets: ['latin'] })
-
 export const metadata: Metadata = {
   title: 'Clarence Jay Fetalino - AI Engineer Portfolio',
+  icons: {
+    icon: [
+      { url: '/site_icon.svg', type: 'image/svg+xml' },
+    ],
+  },
   description: 'AI Engineer showcasing technical expertise, projects, research, and thought leadership in artificial intelligence.',
   keywords: ['AI Engineer', 'Machine Learning', 'Deep Learning', 'Portfolio', 'Data Science', 'Python', 'PyTorch', 'TensorFlow'],
   authors: [{ name: 'Clarence Jay Fetalino' }],
