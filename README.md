@@ -172,9 +172,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help customizing the portfolio, feel free to reach out:
 
-- Email: clarence.jay@example.com
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- Email: cjmfetalino18@gmail.com
+- LinkedIn: https://www.linkedin.com/in/clarence-fetalino-45b313223/
+- GitHub: https://github.com/cjdevx-ai
 
 ---
 
